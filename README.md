@@ -32,6 +32,18 @@ Una aplicación móvil que permite registrar, visualizar, editar y eliminar cita
 
 ---
 
+## 🧩 Ejercicio 2 - Aplicación para vizualizar platillos tipicos y su información
+
+### 📋 Descripción
+
+Una aplicación móvil que permite visualizar diferentes platillos medianre el diseño responsiv con Flexbox, lo cual permite que tanto El HomeScreem como el DetailsScreem se muestren
+correctamente a cualquier tamaño de la pantalla.
+
+### 🛠️ Funcionalidades
+-HomeScreem: visualizar las tarjetas que contienen el nombre, la imagen y una breve descripción del platillo
+-DetailsScreem: visualizar la información como el nombre, descripción y los ingredientes de dicho platillo respectivamente luego de dar clic en la tarjeta del platillo
+
+
 ## 🧪 Tecnologías Utilizadas
 
 - React Native
@@ -47,3 +59,5 @@ Una aplicación móvil que permite registrar, visualizar, editar y eliminar cita
 - **Antonio Herrera-FH240388** 
 - **Julissa Ventura-VI241412**
 ---
+
+
