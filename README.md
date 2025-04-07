@@ -44,6 +44,6 @@ Una aplicación móvil que permite registrar, visualizar, editar y eliminar cita
 
 ## 👨‍💻 Autores
 
-- **Antonio Herrera** 
-- **Julissa Ventura**
+- **Antonio Herrera-FH240388** 
+- **Julissa Ventura-VI241412**
 ---
