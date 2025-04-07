@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pupusa",
+    "descripcion": "Tortilla rellena típica de El Salvador",
+    "imagen": "https://cdn7.kiwilimon.com/recetaimagen/2806/960x640/25790.jpg.jpg",
+    "ingredientes": ["Masa de maíz", "Queso", "Frijoles", "Chicharrón"],
+    "region": "El Salvador",
+    "precio": 1.5,
+    "categoria": "Plato principal"
+  },
+  {
+    "id": 2,
+    "nombre": "Ceviche",
+    "descripcion": "Pescado marinado con jugo de limón",
+    "imagen": "https://www.recetasnestle.cl/sites/default/files/srh_recipes/379d1ba605985c4bc3ea975cabacce13.jpg",
+    "ingredientes": ["Pescado", "Limón", "Cebolla", "Cilantro"],
+    "region": "Perú",
+    "precio": 3.0,
+    "categoria": "Entrante"
+  },
+      {
+     "id": 3,
+    "nombre": "Tacos al Pastor",
+    "descripcion": "Tortillas rellenas de carne de cerdo marinada con piña y especias.",
+    "imagen": "https://comedera.com/wp-content/uploads/sites/9/2017/08/tacos-al-pastor-receta.jpg",
+    "ingredientes": ["Carne de cerdo", "Tortillas", "Piña", "Cebolla", "Cilantro", "Salsa roja"],
+    "region": "México",
+    "precio": 5.50,
+    "categoria": "Comida rápida"
+  },
+  {
+    "id": 4,
+    "nombre": "Arepa Rellena",
+    "descripcion": "Pan de maíz blanco o amarillo relleno con diversos ingredientes.",
+    "imagen": "https://cdn.nutritionstudies.org/wp-content/uploads/2020/11/arepa-rellena-con-jaca-mechada-1.jpg",
+    "ingredientes": ["Harina de maíz", "Queso", "Carne mechada", "Aguacate", "Caraotas negras"],
+    "region": "Venezuela / Colombia",
+    "precio": 4.25,
+    "categoria": "Tradicional"
+  },
+  {
+    "id": 5,
+    "nombre": "Feijoada",
+    "descripcion": "Guiso de frijoles negros con carne de cerdo, servido con arroz.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTNFiDjb8hH_SXSTFud-lihodjM_Uwj0BIg&s",
+    "ingredientes": ["Frijoles negros", "Costilla de cerdo", "Salchicha", "Arroz", "Naranja", "Col rizada"],
+    "region": "Brasil",
+    "precio": 9.75,
+    "categoria": "Plato fuerte"
+  }
+]
+
